@@ -5,3 +5,6 @@ Reverse Vampire Heaven é um protótipo de um bullet heaven feito em 2 semanas n
 O protótipo foi feito por 2 pessoas:
 * Bernardo Guerreiro da Silveira Orlandi
 * Ricardo Moreira Gomes
+
+### 🎮 Itch.io
+O jogo também pode ser jogado via web ou download na seguinte página do itchio: [Reverse Vampire Heaven](https://rikmgomes.itch.io/reverse-vampire-heaven).
