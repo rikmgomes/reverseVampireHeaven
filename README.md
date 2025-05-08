@@ -7,4 +7,4 @@ O protótipo foi feito por 2 pessoas:
 * Ricardo Moreira Gomes
 
 ### 🎮 Itch.io
-O jogo também pode ser jogado via web ou download na seguinte página do itchio: [Reverse Vampire Heaven](https://rikmgomes.itch.io/reverse-vampire-heaven).
+O jogo pode ser jogado via web ou download na página do itchio: [Reverse Vampire Heaven](https://rikmgomes.itch.io/reverse-vampire-heaven).
